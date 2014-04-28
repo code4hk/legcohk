@@ -13,6 +13,13 @@ Use:
    * English: http://bit.ly/1k58I8b
    * Chinese: http://bit.ly/1tNwRqD
 
+## Questions
+
+   * Check existing issues:
+   [open](https://github.com/code4hk/legcohk/issues?state=open), 
+   [closed](https://github.com/code4hk/legcohk/issues?state=closed)
+   * If no there, [create a new issue](https://github.com/code4hk/legcohk/issues/new)
+
 ## License
 
 CC4:
