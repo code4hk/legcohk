@@ -10,6 +10,7 @@ Main problems:
 
    * Scraping: the file naming convention is not very good; no full list; reverse engineering from its own JS.
    * Cleaning: e.g. member name prefix "Dr", "Prof".
+   * Principal Component Analysis: 
 
 Online viewer of the notebook: http://nbviewer.ipython.org/github/hupili/legcohk/blob/master/LegCoHK.ipynb
 
