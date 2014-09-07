@@ -5,3 +5,6 @@ matplotlib
 ipython
 pyquery
 requests
+pyzmq
+jinja2
+tornado
