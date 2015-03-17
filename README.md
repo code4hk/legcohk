@@ -10,8 +10,10 @@ Use:
 
 ## Online Viewers
 
-   * English: http://bit.ly/1k58I8b
-   * Chinese: http://bit.ly/1tNwRqD
+   * English:
+   http://nbviewer.ipython.org/github/code4hk/legcohk/blob/master/LegCoHK.ipynb
+   * Chinese:
+   http://nbviewer.ipython.org/github/code4hk/legcohk/blob/chinese/LegCoHK.ipynb
 
 ## Questions
 
